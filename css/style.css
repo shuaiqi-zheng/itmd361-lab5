@@ -2,19 +2,18 @@ html{
   font-family: 'Lato', sans-serif;
   background-color: black;
   background-image: url("images/space1.jpg");
+  color: #FFFFFF;
+  width: 100%;
 }
 
-body{
-  background-color: black;
-}
-
-.header{
-  margin-left: auto;
-  margin-right: auto;
-  width: 1000px;
-  height: 100px;
+h1{
+	font-family: 'Lato', cursive;
   text-align: center;
-  color: white;
+ 	color: white;
+  font-size: 50px;
+  margin: 50px auto 50px auto;
+  width: 50%;
+  padding: 50px 0 50px 0;
 }
 
 .mercury{
@@ -30,26 +29,22 @@ body{
   color: #a74808;
 }
 
-table, th, td{
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-left: auto;
-  margin-right: auto;
-  border-collapse: collapse;
-  border: 1px
-  color: white;
+table, td, tr{
+	font-family: 'Poppins', sans-serif;
+ 	border-collapse: collapse;
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	margin-top: 0;
+ 	margin-bottom: 0;
   text-align: center;
-}
-
-td{
-  height: 40px;
-  width: 250px
+  height: 70px;
+  border: 1px solid #FFFFFF;
 }
 
 footer{
+	clear: left;
+  width: 100%;
+  color: #FFFFFF;
   text-align: center;
-  color: white;
-  margin-bottom: 80px;
-  line-height: 12px;
-  font-size: 20px;
+  padding: 20px;
 }
