@@ -4,6 +4,9 @@ html{
   background-image: url("images/space1.jpg");
 }
 
+body{
+  background-color: black;
+}
 
 .header{
   margin-left: auto;
