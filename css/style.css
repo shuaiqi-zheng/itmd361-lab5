@@ -1,0 +1,55 @@
+html{
+  background-color: #000;
+  color: #fff;
+  background-image:url("img/space1.jpg");
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+header{
+  background-color: #006466;
+  text-align: center;
+  font-family: 'Monoton', cursive;
+  font-size: 2rem;
+  margin: 0;
+}
+
+
+#main{
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40rem;
+}
+
+table{
+  background-color: #000;
+  font-size: 1.5rem;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+.row-name{
+  font-size: 1.5rem;
+  border-top: none;
+  border-left: none;
+  border-right: 1px #fff solid;
+  color: #fff;
+}
+
+.col-name{
+  color: #fff;
+}
+
+td{
+  border-bottom: 1px #fff solid;
+  color: #006466;
+  line-height: 2rem;
+}
+
+footer{
+  text-align: center;
+  padding: 1.5rem 1rem;
+  background-color: #006466;
+  line-height: 0.5rem;
+}
