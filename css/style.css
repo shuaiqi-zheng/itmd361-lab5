@@ -1,7 +1,7 @@
 html{
   font-family: 'Lato', sans-serif;
   color: white;
-  background-image:url(../images/space1.jpg);
+  background-image:url("images/space1.jpg");
 }
 
 
@@ -45,6 +45,6 @@ footer{
   text-align: center;
   margin-bottom: 80px;
   line-height: 9px;
-  font-size: 10px;
+  font-size: 14px;
   background: none;
 }
