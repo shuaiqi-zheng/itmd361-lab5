@@ -1,8 +1,13 @@
 html{
   font-family: 'Lato', sans-serif;
-  color: aliceblue;
-  background-image:url(images/space1.jpg);
+  color: #FFFFFF;
+ 	width: 100%;
+  background-color: #000;
+  background-image:url(images/space3.jpg);
+  background-attachment: fixed;
+  background-size: cover;
 }
+
 .header{
   margin-left: auto;
   margin-right: auto;
