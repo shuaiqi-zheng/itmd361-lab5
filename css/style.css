@@ -1,16 +1,9 @@
 html{
   font-family: 'Lato', sans-serif;
- 	width: 100%;
-  background-color: #000;
+  color: white;
+  background-image:url(../images/space1.jpg);
 }
 
-body{
-    background-image:url(images/space3.jpg);
-    background-color: #cccccc;
-    background-attachment: fixed;
-    background-size: cover;
-    text-align: center;
-}
 
 .header{
   margin-left: auto;
