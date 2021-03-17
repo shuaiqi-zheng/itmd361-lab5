@@ -14,16 +14,16 @@ html{
 }
 
 .mercury{
-  color:#bf6f1e;
+  color: #bf6f1e;
 }
 .venus{
-  color:#cc3a00;
+  color: #cc3a00;
 }
 .earth{
-  color:#778aab;
+  color: #778aab;
 }
 .mars{
-  color:#a74808;
+  color: #a74808;
 }
 
 table, th, td{
@@ -46,5 +46,4 @@ footer{
   margin-bottom: 80px;
   line-height: 12px;
   font-size: 20px;
-  background: none;
 }
