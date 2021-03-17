@@ -9,6 +9,7 @@ html{
 
 body{
     background-image:url(images/space3.jpg);
+    background-color: #cccccc;
     background-attachment: fixed;
     background-size: cover;
     text-align: center;
