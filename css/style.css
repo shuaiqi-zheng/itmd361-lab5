@@ -1,9 +1,9 @@
-html {
+html{
   font-family: 'Lato', sans-serif;
   color: aliceblue;
-  background-color: #000;
+  background-image:url(images/space1.jpg);
 }
-.header {
+.header{
   margin-left: auto;
   margin-right: auto;
   width: 1000px;
